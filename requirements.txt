@@ -1,0 +1,33 @@
+# Streamlit frontend
+streamlit
+
+# LangChain + LCEL (RunnableSequence, RunnableParallel, RunnablePassthrough, etc.)
+langchain
+langchain-core
+langchain-text-splitters
+
+# Gemini LLM integration
+langchain-google-genai
+
+# Tavily search integration
+langchain-tavily
+
+# LangChain community integrations (e.g. WebBaseLoader)
+langchain-community
+
+# Optional: graph-based multi-agent orchestration if you decide to use it
+langgraph
+
+# Web scraping and HTML parsing
+beautifulsoup4
+requests
+lxml
+
+# Loading research PDFs
+pypdf
+
+# Environment variables and data handling
+python-dotenv
+pydantic
+pandas
+plotly
