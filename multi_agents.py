@@ -74,5 +74,7 @@ Areas to Improve:
 One line verdict:
 ...""")
 ])
+
+critic_chain = critic_prompt | llm | parser
     
        
